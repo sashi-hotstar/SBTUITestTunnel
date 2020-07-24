@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
     s.homepage         = "https://github.com/Subito-it/SBTUITestTunnel"
     s.license          = 'Apache License, Version 2.0'
     s.author           = { "Tomas Camin" => "tomas.camin@adevinta.com" }
-    s.source           = { :git => "https://github.com/Subito-it/SBTUITestTunnel.git", :tag => s.version.to_s }
+    s.source           = { :git => "git@github.com:sashi-hotstar/SBTUITestTunnel.git", :tag => s.version.to_s }
 
     s.ios.deployment_target = '9.0'
     s.tvos.deployment_target = '9.0'
